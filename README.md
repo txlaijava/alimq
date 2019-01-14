@@ -163,5 +163,3 @@ public class GiveCouponMessageListener extends AbstractMessageOrderListener <Mes
 #### 5、相关参考
 ----
 * 官网Demo地址：<https://github.com/AliwareMQ/mq-demo>
-* 感谢这个作者。基于他的源码进行开发。<https://github.com/jibaole/spring-boot-starter-alimq>
-* 
